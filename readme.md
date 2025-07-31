@@ -20,7 +20,7 @@ Com base nesses valores, ela calcula o saldo de vitórias (`vitórias - derrotas
 | 91 - 100         | Lendário   |
 | 101 ou mais      | Imortal    |
 
----
+-----
 
 ## 🛠️ Tecnologias Utilizadas
 
